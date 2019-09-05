@@ -3,9 +3,11 @@
 ## H4P : Hero for Paws
 <img src="./logoH4P.png" width="150"/>
 
-Gracias a que hay organizaciones que se encargan de cuidar de animales sin familia surge esta idea, una aplicacion que facilitaria la adopcion de mascotas conectando a la organización con la futura familia de forma sencilla.
+H4P es una aplicación web orientada facilitar para la adopción de mascotas, pero también sirve de plataforma de control para refugios. Es decir que los refugios al ingresar a dicha web, pueden utilizarla como software con el cual llevar un seguimiento mas ágil de las mascotas rescatadas y dadas en adopción, manteniendo toda la información referida a las adopciones de manera ordenada y centralizada.
 
 ---
+
+Más información [ver La wiki del proyecto](https://github.com/alejandrorossi/H4P-central/wiki)
 
 
 
