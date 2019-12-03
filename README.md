@@ -7,6 +7,12 @@ H4P es una aplicación web orientada facilitar para la adopción de mascotas, pe
 
 ---
 
+[Repositorio Frontend](https://github.com/alejandrorossi/H4P-frontend)
+
+[Repositorio Backend](https://github.com/alejandrorossi/H4P-backend)
+
+---
+
 Más información [ver la wiki del proyecto](https://github.com/alejandrorossi/H4P-central/wiki)
 
 
